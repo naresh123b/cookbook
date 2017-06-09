@@ -1,0 +1,1 @@
+added file chef7.txt from "qa" branch
